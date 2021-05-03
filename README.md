@@ -6,7 +6,7 @@ HTML - CSS - JavaScript - NODEJS - MySQL - C# - .NET - React e React Native.
 - 💸 Empreendor Ocasional em:
 http://focandocerto.com.br
 - ♫ Amante de Música 
-- #  Gestor de T.I 
+- 💻 Gestor de T.I 
 ♍ ☝ - Virginiano não Ortodoxo e Ateu não Praticante.
 
 
