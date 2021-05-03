@@ -1,5 +1,5 @@
 ### Olá! 👋
-- 🔭 I’m currently hire to work
+- 🔭 Open To Work
 - 🌱Sou um fullstack web developer em desenvolvimento.
 - ⚡ Desenvovlendo Expertises em:
 HTML - CSS - JavaScript - NODEJS - MySQL - C# - .NET - React e React Native.
