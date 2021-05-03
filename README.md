@@ -3,10 +3,11 @@
 - 🌱Sou um fullstack web developer em desenvolvimento.
 - ⚡ Desenvovlendo Expertises em:
 HTML - CSS - JavaScript - NODEJS - MySQL - C# - .NET - React e React Native.
-- 📫 Empreendor Ocasional em:
+- 💸 Empreendor Ocasional em:
 http://focandocerto.com.br
-- U + 1F3B5;
-
+- ♫ Amante de Música 
+- #  Gestor de T.I 
+♍ ☝ - Virginiano não Ortodoxo e Ateu não Praticante.
 
 
 
