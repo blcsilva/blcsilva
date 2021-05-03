@@ -7,7 +7,7 @@ HTML - CSS - JavaScript - NODEJS - MySQL - C# - .NET - React e React Native.
 http://focandocerto.com.br
 - ♫ Amante de Música 
 - 💻 Gestor de T.I 
-♍ ☝ - Virginiano não Ortodoxo e Ateu não Praticante.
+- ♍ ☝  Virginiano não Ortodoxo e Ateu não Praticante.
 
 
 
