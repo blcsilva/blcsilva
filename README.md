@@ -17,5 +17,6 @@ http://focandocerto.com.br
 
 
 <!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/github/blcsilva/blcsilva.svg)](https://wakatime.com/badge/github/blcsilva/blcsilva)
 <!--END_SECTION:waka--> 
 
