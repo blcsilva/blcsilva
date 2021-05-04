@@ -8,9 +8,8 @@
 <br>
 HTML - CSS - JavaScript - NODEJS - MySQL - C# - .NET - React e React Native.
 <br>
-<p>- 💸 Empreendor Ocasional em:</p>
+- 💸 Empreendor Ocasional em:
 http://focandocerto.com.br
-<br>
 <p>- ♫ Amante de Música</p> 
 <p>- 💻 Gestor de T.I</p> 
 <p>- ♍ ☝  Virginiano não Ortodoxo e Ateu não Praticante.</p>
