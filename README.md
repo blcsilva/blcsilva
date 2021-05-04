@@ -1,15 +1,19 @@
 <img align='right' src="https://raw.githubusercontent.com/blcsilva/blcsilva/main/assets/banner-social-media.gif" width="100%">
 &nbsp;
-### Olá! 👋
-- 🔭 Open To Work
-- 🌱Sou um fullstack web developer em desenvolvimento.
-- ⚡ Desenvovlendo Expertises em:
+<h1>### Olá! 👋</h1>
+
+<p>- 🔭 Open To Work</p>
+<p>- 🌱Sou um fullstack web developer em desenvolvimento.</p>
+<p>- ⚡ Desenvolvendo Expertises em:</p>
+<br>
 HTML - CSS - JavaScript - NODEJS - MySQL - C# - .NET - React e React Native.
-- 💸 Empreendor Ocasional em:
+<br>
+<p>- 💸 Empreendor Ocasional em:</p>
 http://focandocerto.com.br
-- ♫ Amante de Música 
-- 💻 Gestor de T.I 
-- ♍ ☝  Virginiano não Ortodoxo e Ateu não Praticante.
+<br>
+<p>- ♫ Amante de Música</p> 
+<p>- 💻 Gestor de T.I</p> 
+<p>- ♍ ☝  Virginiano não Ortodoxo e Ateu não Praticante.</p>
 
 
 <!--START_SECTION:waka-->
