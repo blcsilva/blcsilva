@@ -16,6 +16,12 @@ http://focandocerto.com.br
 
 
 <!--START_SECTION:waka-->
-
+```text
+CSS          1 hr 29 mins    █████████▓░░░░░░░░░░░░░░░   38.33 % 
+HTML         1 hr 16 mins    ████████▒░░░░░░░░░░░░░░░░   32.73 % 
+YAML         31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Markdown     31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+```
 <!--END_SECTION:waka--> 
 
