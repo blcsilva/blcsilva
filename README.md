@@ -2,7 +2,6 @@
 &nbsp;
 <h1>### Olá! 👋</h1>
 
-<p>- 🔭 Open To Work</p>
 <p>- 🌱Sou um fullstack web developer em desenvolvimento.</p>
 <p>- ⚡ Desenvolvendo Expertises em:</p>
 <br>
