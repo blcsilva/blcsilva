@@ -21,13 +21,13 @@ http://focandocerto.com.br
 
 **🐱 My Github Data** 
 
-> 🏆 39 Contributions in the Year 2021
+> 🏆 40 Contributions in the Year 2021
  > 
 > 📦 27.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
