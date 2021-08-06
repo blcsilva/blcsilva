@@ -60,14 +60,13 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████░░░░   86.44% 
-Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.56%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -83,6 +82,6 @@ EJS                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 05/08/2021
+ Last Updated on 06/08/2021
 <!--END_SECTION:waka--> 
 
