@@ -15,7 +15,7 @@ http://focandocerto.com.br
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-125284%20lines%20of%20code-blue)
 
@@ -23,7 +23,7 @@ http://focandocerto.com.br
 
 > 🏆 40 Contributions in the Year 2021
  > 
-> 📦 27.2 kB Used in Github's Storage 
+> 📦 39.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
