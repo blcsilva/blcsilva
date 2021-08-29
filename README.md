@@ -60,13 +60,14 @@ Sunday       4 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     0 secs              █████████████████████████   100.0% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -83,6 +84,6 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 28/08/2021
+ Last Updated on 29/08/2021
 <!--END_SECTION:waka--> 
 
