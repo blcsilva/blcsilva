@@ -15,7 +15,7 @@ http://focandocerto.com.br
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-125284%20lines%20of%20code-blue)
 
@@ -60,9 +60,7 @@ Sunday       4 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-SQL                      17 mins             █████████████████████████   99.99% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+SQL                      17 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
 VS Code                  17 mins             █████████████████████████   100.0%
@@ -85,6 +83,6 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 04/09/2021
+ Last Updated on 06/09/2021
 <!--END_SECTION:waka--> 
 
