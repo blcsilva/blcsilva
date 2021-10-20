@@ -15,7 +15,7 @@ http://focandocerto.com.br
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-186062%20lines%20of%20code-blue)
 
@@ -60,13 +60,13 @@ Sunday       6 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-SQL                      1 hr 41 mins        █████████████████████████   100.0%
+SQL                      1 hr 11 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 41 mins        █████████████████████████   100.0%
+VS Code                  1 hr 11 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.0%
+Windows                  1 hr 11 mins        █████████████████████████   100.0%
 
 ```
 
@@ -83,6 +83,6 @@ EJS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2021
+ Last Updated on 20/10/2021
 <!--END_SECTION:waka--> 
 
