@@ -60,13 +60,13 @@ Sunday       6 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-SQL                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -83,6 +83,6 @@ EJS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2021
+ Last Updated on 27/10/2021
 <!--END_SECTION:waka--> 
 
