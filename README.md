@@ -60,14 +60,13 @@ Sunday       6 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JSON                     4 hrs 38 mins       ████████████████████████░   97.41% 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 46 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 46 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -84,6 +83,6 @@ EJS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2022 23:16:57 UTC
+ Last Updated on 08/03/2022 23:16:16 UTC
 <!--END_SECTION:waka--> 
 
