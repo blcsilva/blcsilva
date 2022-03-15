@@ -6,6 +6,7 @@
 <p>- ⚡ Desenvolvendo Expertises em:</p>
 <br>
 HTML - CSS - JavaScript - NODEJS - MySQL - C# - .NET - React e React Native.
+IAC - DevOps - Azure - OCI Certified - Scrum Certified - LOADING ...
 <br>
 - 💸 Empreendor Ocasional em:
 http://focandocerto.com.br
