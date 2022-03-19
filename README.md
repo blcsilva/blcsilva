@@ -18,7 +18,7 @@ http://focandocerto.com.br
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-196%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-198%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -71,19 +71,19 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in CSS** 
 
 ```text
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Dart                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-EJS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+CSS                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Dart                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
 
 
 
- Last Updated on 17/03/2022 23:16:30 UTC
+ Last Updated on 19/03/2022 23:16:55 UTC
 <!--END_SECTION:waka--> 
 
