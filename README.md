@@ -16,7 +16,7 @@ http://focandocerto.com.br
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -86,6 +86,6 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 23:18:37 UTC
+ Last Updated on 12/05/2022 23:19:21 UTC
 <!--END_SECTION:waka--> 
 
