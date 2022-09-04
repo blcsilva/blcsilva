@@ -16,7 +16,7 @@ http://focandocerto.com.br
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,45 +34,6 @@ http://focandocerto.com.br
  > 
 > 🔑 13 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    12 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
-🌆 Daytime    26 commits     █████████░░░░░░░░░░░░░░░░   38.81% 
-🌃 Evening    17 commits     ██████░░░░░░░░░░░░░░░░░░░   25.37% 
-🌙 Night      12 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.91%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.93% 
-Tuesday      13 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.4% 
-Wednesday    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99% 
-Thursday     25 commits     █████████░░░░░░░░░░░░░░░░   37.31% 
-Friday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-Saturday     8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
-Sunday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.48%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -86,6 +47,6 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2022 23:17:29 UTC
+ Last Updated on 04/09/2022 23:17:50 UTC
 <!--END_SECTION:waka--> 
 
