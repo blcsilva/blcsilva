@@ -18,7 +18,7 @@ http://focandocerto.com.br
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -32,7 +32,7 @@ http://focandocerto.com.br
  > 
 > 📜 32 Public Repositories 
  > 
-> 🔑 16 Private Repositories  
+> 🔑 17 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -86,6 +86,6 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/01/2023 23:16:56 UTC
+ Last Updated on 27/01/2023 23:16:06 UTC
 <!--END_SECTION:waka--> 
 
