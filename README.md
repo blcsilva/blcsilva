@@ -18,7 +18,7 @@ http://focandocerto.com.br
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -73,16 +73,16 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 07/03/2023 23:14:15 UTC
+ Last Updated on 08/03/2023 23:13:38 UTC
 <!--END_SECTION:waka--> 
 
