@@ -18,13 +18,13 @@ http://focandocerto.com.br
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 153.9 kB Used in GitHub's Storage 
+> 📦 154.1 kB Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2023
  > 
@@ -32,7 +32,7 @@ http://focandocerto.com.br
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 21 Private Repositories 
+> 🔑 22 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -73,16 +73,16 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 24/04/2023 23:12:24 UTC
+ Last Updated on 25/04/2023 23:12:08 UTC
 <!--END_SECTION:waka--> 
 
