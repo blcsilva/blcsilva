@@ -2,14 +2,12 @@
 &nbsp;
 <h1>### Olá! 👋</h1>
 
-<p>- 🌱Sou um fullstack web developer em desenvolvimento.</p>
+<p>- 🌱Sou um Devops & SRE desenvolvimento.</p>
 <p>- ⚡ Desenvolvendo Expertises em:</p>
 <br>
-HTML - CSS - JavaScript - NODEJS - MySQL - C# - .NET - React e React Native.
-IAC - DevOps - Azure - OCI Certified - Scrum Certified - LOADING ...
+GITLAB - GITHUB - CI/CD - Ansible - Terraform - Dcoker - Kubernetes
+Jenkins - AWS - Azure - OCI - Scrum Certified - LOADING ...
 <br>
-- 💸 Empreendor Ocasional em:
-http://focandocerto.com.br
 <p>- ♫ Amante de Música</p> 
 <p>- 💻 Gestor de T.I</p> 
 <p>- ♍ ☝  Virginiano não Ortodoxo e Ateu não Praticante.</p>
