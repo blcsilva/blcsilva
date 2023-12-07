@@ -14,6 +14,8 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - LOADING ...
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2031%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
@@ -30,6 +32,42 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - LOADING ...
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                39 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+🌆 Daytime                77 commits          ████████░░░░░░░░░░░░░░░░░   33.48 % 
+🌃 Evening                76 commits          ████████░░░░░░░░░░░░░░░░░   33.04 % 
+🌙 Night                  38 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Wednesday                45 commits          █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Thursday                 72 commits          ████████░░░░░░░░░░░░░░░░░   31.30 % 
+Friday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Saturday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Sunday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -43,6 +81,6 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 23:12:36 UTC
+ Last Updated on 07/12/2023 23:13:04 UTC
 <!--END_SECTION:waka--> 
 
