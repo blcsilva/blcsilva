@@ -14,8 +14,6 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - LOADING ...
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2018%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
@@ -57,13 +55,14 @@ Sunday                   22 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 27 mins        ███████████████████████░░   93.27 % 
+Git                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,6 +78,6 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2024 23:13:16 UTC
+ Last Updated on 14/04/2024 23:59:44 UTC
 <!--END_SECTION:waka--> 
 
