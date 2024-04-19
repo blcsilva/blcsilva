@@ -14,7 +14,7 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - LOADING ...
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
@@ -57,8 +57,8 @@ Sunday                   22 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    5 hrs 39 mins       ███████████████████░░░░░░   77.23 % 
-YAML                     1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Other                    5 hrs 39 mins       ███████████████████░░░░░░   77.26 % 
+YAML                     1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
 Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 Git                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
@@ -82,6 +82,6 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2024 23:13:18 UTC
+ Last Updated on 19/04/2024 23:14:11 UTC
 <!--END_SECTION:waka--> 
 
