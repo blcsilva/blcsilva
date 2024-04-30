@@ -59,14 +59,13 @@ Sunday                   22 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    11 mins             ███████████████████████░░   92.42 % 
-YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,6 +81,6 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/04/2024 23:12:19 UTC
+ Last Updated on 30/04/2024 23:12:36 UTC
 <!--END_SECTION:waka--> 
 
