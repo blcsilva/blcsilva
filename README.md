@@ -14,17 +14,17 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - LOADING ...
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 177.7 kB Used in GitHub's Storage 
+> 📦 178.6 kB Used in GitHub's Storage 
  > 
-> 🏆 21 Contributions in the Year 2024
+> 🏆 28 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,13 +59,17 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       32 mins             ███████████░░░░░░░░░░░░░░   42.97 % 
+Binary                   20 mins             ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+CSHTML                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+XML                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            1 hr 15 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,6 +85,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2024 03:27:00 UTC
+ Last Updated on 12/09/2024 23:16:56 UTC
 <!--END_SECTION:waka--> 
 
