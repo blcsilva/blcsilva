@@ -59,15 +59,13 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       12 mins             ██████████████░░░░░░░░░░░   55.76 % 
-JSON                     7 mins              ████████░░░░░░░░░░░░░░░░░   32.13 % 
-CSHTML                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,6 +81,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2024 23:15:45 UTC
+ Last Updated on 20/09/2024 23:14:55 UTC
 <!--END_SECTION:waka--> 
 
