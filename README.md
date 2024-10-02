@@ -5,7 +5,7 @@
 <p>- 🌱Sou um Devops & SRE desenvolvimento.</p>
 <p>- ⚡ Desenvolvendo Expertises em:</p>
 <br>
-GITLAB - GITHUB - CI/CD - Ansible - Terraform - Docker - Kubernetes
+C# - JAVA - PYTHON - GITLAB - GITHUB - CI/CD - Ansible - Terraform - Docker - Kubernetes
 Jenkins - AWS - Azure - OCI - Scrum Certified - LOADING ...
 <br>
 <p>- ♫ Amante de Música</p> 
