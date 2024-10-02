@@ -26,7 +26,7 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - LOADING ...
  > 
 > 🏆 49 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+> 🚀👨‍💻 Opted to Hire
  > 
 > 📜 43 Public Repositories 
  > 
