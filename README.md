@@ -21,6 +21,7 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - Python - Java ...
 </div>
 <br>
 ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 
 <!--START_SECTION:waka-->
