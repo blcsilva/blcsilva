@@ -20,7 +20,7 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - Python - Java ...
   <img align="center" alt="Bruno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <br>
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/blcsilva/blcsilva/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
