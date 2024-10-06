@@ -14,7 +14,11 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - Python - Java ...
 <p>- TDAH 🎗️🧠🧩</p>
 <p>- Amante de Música ♫</p>
 <p>- SysAdmin | Devops| SRE | C#| Python| JAVA| Cloud MNGR</p>
-[![Blcsilva's GitHub stats](https://github-readme-stats.vercel.app/api?username=blcsilva)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bruno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2049%20mins-blue)
