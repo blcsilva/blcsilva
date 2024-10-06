@@ -15,13 +15,20 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - Python - Java ...
 <p>- Amante de Música ♫</p>
 <p>- SysAdmin | Devops| SRE | C#| Python| JAVA| Cloud MNGR</p>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bruno-Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Bruno-GCP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">  
+  <img align="center" alt="Bruno-Amazon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Bruno-AzureDevops" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg">
+  <img align="center" alt="Bruno-Ansible" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
+<img align="center" alt="Bruno-Terraform" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Bruno-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">  
+  <img align="center" alt="Bruno-Kubernetes" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg"> 
+  <img align="center" alt="Bruno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bruno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <br>
-![Snake animation](https://github.com/blcsilva/blcsilva/blob/output/github-contribution-grid-snake.svg)
-
 <br>
 
 <!--START_SECTION:waka-->
