@@ -6,11 +6,14 @@
 <p>- ⚡ Desenvolvendo Expertises em:</p>
 <br>
 C# - JAVA - PYTHON - GITLAB - GITHUB - CI/CD - Ansible - Terraform - Docker - Kubernetes
-Jenkins - AWS - Azure - OCI - Scrum Certified - LOADING ...
+Jenkins - AWS - Azure - OCI - Scrum Certified - Python - Java ...
 <br>
 <p>- ♫ Amante de Música</p> 
 <p>- 💻 Gestor de T.I</p> 
 <p>- ♍ ☝  Virginiano não Ortodoxo e Ateu não Praticante.</p>
+<p>- TDAH 🎗️🧠🧩</p>
+<p>- Amante de Música ♫</p>
+<p>- SysAdmin | Devops| SRE | C#| Python| JAVA| Cloud MNGR</p>
 
 
 <!--START_SECTION:waka-->
@@ -26,7 +29,7 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - LOADING ...
  > 
 > 🏆 61 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+>  Opted to Hire
  > 
 > 📜 45 Public Repositories 
  > 
