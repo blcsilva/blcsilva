@@ -34,13 +34,15 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - Python - Java ...
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 475.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 59 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -97,6 +99,6 @@ HTML                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2025 23:16:54 UTC
+ Last Updated on 23/03/2025 23:15:47 UTC
 <!--END_SECTION:waka--> 
 
