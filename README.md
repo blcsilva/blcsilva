@@ -42,6 +42,8 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - Python - Java ...
 
 > 📦 475.6 kB Used in GitHub's Storage 
  > 
+> 🏆 59 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 55 Public Repositories 
@@ -75,13 +77,13 @@ Sunday                   103 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -97,6 +99,6 @@ HTML                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2025 23:16:50 UTC
+ Last Updated on 04/04/2025 23:16:58 UTC
 <!--END_SECTION:waka--> 
 
