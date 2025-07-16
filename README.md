@@ -32,7 +32,7 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - Python - Java ...
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,6 +41,8 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - Python - Java ...
 **🐱 My GitHub Data** 
 
 > 📦 475.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 72 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -75,16 +77,15 @@ Sunday                   107 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-YAML                     1 hr 22 mins        ██████████████████████░░░   89.12 % 
-Ruby                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+YAML                     1 hr 22 mins        ████████████████████████░   96.90 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,6 +101,6 @@ HTML                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2025 23:05:38 UTC
+ Last Updated on 16/07/2025 23:06:59 UTC
 <!--END_SECTION:waka--> 
 
