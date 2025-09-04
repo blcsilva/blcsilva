@@ -32,7 +32,7 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - Python - Java ...
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,8 +41,6 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - Python - Java ...
 **🐱 My GitHub Data** 
 
 > 📦 475.6 kB Used in GitHub's Storage 
- > 
-> 🏆 72 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -103,6 +101,6 @@ HTML                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2025 23:05:52 UTC
+ Last Updated on 04/09/2025 23:06:30 UTC
 <!--END_SECTION:waka--> 
 
