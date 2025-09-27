@@ -32,8 +32,6 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - Python - Java ...
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2033%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.4%20million%20lines%20of%20code-blue)
@@ -50,42 +48,6 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - Python - Java ...
  > 
 > 🔑 56 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-🌆 Daytime                385 commits         ████████░░░░░░░░░░░░░░░░░   30.43 % 
-🌃 Evening                435 commits         █████████░░░░░░░░░░░░░░░░   34.39 % 
-🌙 Night                  274 commits         █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   187 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Tuesday                  140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Wednesday                360 commits         ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-Thursday                 199 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Friday                   132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Saturday                 140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Sunday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -99,6 +61,6 @@ HTML                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2025 23:05:59 UTC
+ Last Updated on 27/09/2025 23:05:57 UTC
 <!--END_SECTION:waka--> 
 
