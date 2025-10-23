@@ -77,14 +77,13 @@ Sunday                   107 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    0 secs              ██████████████████░░░░░░░   71.62 % 
-Bash                     0 secs              ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -100,6 +99,6 @@ Shell                    4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2025 23:06:04 UTC
+ Last Updated on 23/10/2025 23:06:24 UTC
 <!--END_SECTION:waka--> 
 
