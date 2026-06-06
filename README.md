@@ -32,7 +32,7 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - Python - Java ...
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -77,13 +77,13 @@ Sunday                   122 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,6 +99,6 @@ Java                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2026 23:30:33 UTC
+ Last Updated on 06/06/2026 23:25:59 UTC
 <!--END_SECTION:waka--> 
 
