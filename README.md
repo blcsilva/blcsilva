@@ -32,6 +32,8 @@ Jenkins - AWS - Azure - OCI - Scrum Certified - Python - Java ...
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2048%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.53%20million%20lines%20of%20code-blue?style=flat)
@@ -97,6 +99,6 @@ Java                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 23:27:05 UTC
+ Last Updated on 08/06/2026 23:30:08 UTC
 <!--END_SECTION:waka--> 
 
